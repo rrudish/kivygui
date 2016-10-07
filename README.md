@@ -1,11 +1,9 @@
-#kivygui
-
 This repository contains some experiments using Kivy as a replacement for PySide.
 
-## Setup
+# Setup
 The following setup section(s) assume basic Python, Git, GitHub, and virtual environment knowledge.
 
-### Windows
+## Windows
 * Download and install [Python 3.4.4](https://www.python.org/downloads/release/python-344/).
 
 * Fork this repository.
