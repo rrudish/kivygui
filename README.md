@@ -16,7 +16,7 @@ The following setup section(s) assume basic Python, Git, GitHub, and virtual env
 
   `pip install virtualenvwrapper virtualenvwrapper-win`
 
-* In the Windows command line, create a virtual environment for Kivy:
+* Create a virtual environment for Kivy:
 
   `mkvirtualenv kivygui`
   
