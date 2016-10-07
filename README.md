@@ -24,6 +24,10 @@ The following setup section(s) assume basic Python, Git, GitHub, and virtual env
 
   `setprojectdir C:\Users\you\Projects\kivygui`
   
+* Navigate to your new virtual environment
+
+  `workon kivygui`
+  
 * Install Kivy's dependencies within your virtual environment:
 
   `pip install -r requirements.txt`
