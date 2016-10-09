@@ -1,4 +1,4 @@
-This repository contains some experiments using Kivy as a replacement for PySide.
+This repository contains some experiments and apps I've made while learning [Kivy](https://kivy.org/#home).
 
 # Setup
 The following setup section(s) assume basic Python, Git, GitHub, and virtual environment knowledge.
