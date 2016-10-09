@@ -1,5 +1,3 @@
-from random import randint
-
 from kivy.app import App
 from kivy.clock import Clock
 from kivy.properties import (
