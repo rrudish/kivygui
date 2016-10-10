@@ -1,7 +1,7 @@
 #:kivy 1.9.1
 
 <PongPaddle>:
-    size: 25, 200
+    size: 25, 25
     canvas:
         Rectangle:
             pos: self.pos
@@ -39,13 +39,16 @@
     PongBall:
         id: pong_ball
         center: self.parent.center
+        size: root.height / 16, root.height / 16
 
     PongPaddle:
         id: player_left
         x: root.x
         center_y: root.center_y
+        size: 25, root.height / 4
 
     PongPaddle:
         id: player_right
         x: root.width - self.width
         center_y: root.center_y
+        size: 25, root.height / 4
